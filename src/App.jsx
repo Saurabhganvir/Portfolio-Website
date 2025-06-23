@@ -1,4 +1,4 @@
-import './Index.css'
+import './index.css'
 import NavbarMain from './components/navbar/NavbarMain'
 import HeroMain from './components/heroSection/HeroMain'
 import SubHeroSection from './components/heroSection/SubHeroSection'
